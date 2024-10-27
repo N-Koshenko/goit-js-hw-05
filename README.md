@@ -1,1 +1,1 @@
-Completing the homework for the JavaScript course "Module 4. Objects."
+Completing the homework for the JavaScript course "Module 5. Rehashing methods."
